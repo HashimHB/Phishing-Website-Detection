@@ -8,12 +8,12 @@
 ✴️Phishing attacks can also occur through other means, such as phishing websites, where attackers create fake websites that mimic the appearance of popular sites to deceive users into entering their login information
 
 
-<h1 align="center">Importance of Phishing</h1>
+<h1 align="center">Process of Phishing</h1>
 
 ![image](https://github.com/HashimHB/Phishing-Website-Detection/assets/78270317/f619a93f-94a4-4489-8e68-499d2dba316b)
 
 
-<h1 align="center">Applications that uses phishing detection are:</h1>
+<h1 align="center">Applications</h1>
 
 📌Web Browsers
 
@@ -26,7 +26,7 @@
 📌Mobile Security Apps
 
 
-<h1 align="center">Models used are:</h1>
+<h1 align="center">Models used</h1>
 
 ⭐KNN algorithm <br>
 ⭐Support Vector Machine Algorithm <br>
@@ -42,7 +42,7 @@
 
 ![image](https://github.com/HashimHB/Phishing-Website-Detection/assets/78270317/8a1ddaa6-43f0-4bb1-80e2-adb60b0a3ddd)
 
-<h1 align="center">Architecture Overview</h1>
+<h1 align="center">System Overview</h1>
 
 ![image](https://github.com/HashimHB/Phishing-Website-Detection/assets/78270317/3fd614d9-667a-4a94-a636-bc8c1e7ad653)
 
@@ -66,7 +66,7 @@ Correlation Between different features of the given url
 
 
 
-<h1 align="center">Conclusion and Future Work</h1>
+<h1 align="center">Conclusion</h1>
 
 ◾It is found that phishing attacks is very crucial and it is important for us to get a mechanism to detect it. <br>
 ◾personal information of the user can be leaked through phishing websites, it becomes more critical to take care of this issue.<br>
