@@ -52,7 +52,8 @@
 ![image](https://github.com/HashimHB/Phishing-Website-Detection/assets/78270317/bab62c48-1d29-457a-8283-46b61a70129b)
 
 
-Correlation Between different features of the given url 
+ <h1 align="center">Correlation Between different features of the given url</h1>
+
 
 ![image](https://github.com/HashimHB/Phishing-Website-Detection/assets/78270317/773fe1b1-7b69-47a1-9489-b3304340ea90)
 
